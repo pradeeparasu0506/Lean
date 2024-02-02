@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal_projects/Learn/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/Unreal_projects/Learn/Content/ThirdPerson/video/introVideo.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5G/97CA5MIV8QQZ11ZN0VEKV8.uasset",
+				"F:/Unreal_projects/Learn/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/Unreal_projects/Learn/Content/video/stream.uasset",
+				"F:/Unreal_projects/Learn/Content/video/MyPlayer_Material.uasset",
+				"F:/Unreal_projects/Learn/Content/video/Media_Video.uasset",
+				"F:/Unreal_projects/Learn/Content/video/my.uasset",
+				"F:/Unreal_projects/Learn/Content/streamingMedia/StreamMedia.uasset",
+				"F:/Unreal_projects/Learn/Content/streamingMedia/MediaPlayer.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/R0/FC8UX4LNBQCWUFEF5AJNJK.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LR/OSSI9PQ4KL898NI8KVLBT3.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EP/ZTIV03IBJRSF7LGB6WQXTU.uasset",
+				"F:/Unreal_projects/Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/N2/DPM6TW4MUBKKLT3SX0IBUA.uasset",
+				"F:/Unreal_projects/Learn/Content/streamingMedia/MediaPlayer_Video.uasset",
+				"F:/Unreal_projects/Learn/Content/streamingMedia/MediaPlayer_Video_Mat.uasset"
+			]
+		}
+	]
+}
